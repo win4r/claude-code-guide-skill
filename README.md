@@ -1,3 +1,5 @@
+# [🚀观看我的哔哩哔哩视频](https://space.bilibili.com/3493277319825652)
+
 # Claude Code Complete Guide — Skill
 
 A comprehensive Claude Code skill that covers **every feature and configuration option** of Claude Code, distilled from the official documentation at [code.claude.com/docs](https://code.claude.com/docs).
